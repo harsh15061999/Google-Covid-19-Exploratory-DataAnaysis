@@ -1,2 +1,3 @@
 # Google-Covid-19-Mobility-Exploratory-DataAnaysis
+
 In this repository, I practiced exploratory data analysis on Google’s COVID-19 Community Mobility data available online. This data was collected from Google Maps users around the world over the last few months. It combines location history from a large number of users to capture the overall increase or decrease in time spent in places such as: retail and recreation facilities, groceries and pharmacies, parks, transit stations, workplaces, and residences. The data shows how users’ mobility patterns - what types of places they spend time in - varied over the course of the COVID-19 pandemic.
