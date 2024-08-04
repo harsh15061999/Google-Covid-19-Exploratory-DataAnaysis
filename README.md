@@ -1,5 +1,7 @@
 Exploratory Data Analysis of Google's COVID-19 Community Mobility Data
 
+![EDA COVID-19](https://github.com/user-attachments/assets/6368394d-8735-4330-ae32-ddea17bcfaf2)
+
 This repository contains an exploratory data analysis of Google's COVID-19 Community Mobility data, which provides insights into how people's mobility patterns changed during the COVID-19 pandemic. The data was collected from Google Maps users around the world over several months, and location history was combined with a large number of users to capture the overall increase or decrease in time spent in various types of places.
 
 About the Data:
